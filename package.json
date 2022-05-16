@@ -12,7 +12,7 @@
     "dev": "start-test web 19006 cy:open",
     "dev:ci": "start-test web 19006 cy:run"
   },
-  "author": "Shalini",
+  "author": "Shalini Pai",
   "license": "ISC",
   "dependencies": {
     "expo": "~41.0.1"
