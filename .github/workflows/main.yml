@@ -12,5 +12,4 @@ jobs:
       - name: Cypress run
         uses: cypress-io/github-action@v2
         with:
-          start: npm run web
-          wait-on: 'http://localhost:19006'
+          start: npm run
